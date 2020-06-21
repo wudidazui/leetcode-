@@ -23,5 +23,5 @@ var twoSum = function(nums, target) {
   }
 };
 
-// 时间复杂度:O(n2)
+// 时间复杂度:O(n^2)
 
